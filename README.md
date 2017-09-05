@@ -1,2 +1,2 @@
 # paperRockScissorsEth
-Paper Rock Scissors on the Ethereum Blockchain 
+Paper Rock Scissors on the Ethereum Blockchain
